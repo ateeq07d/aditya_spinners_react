@@ -3,5 +3,3 @@
 This is the frontend for the aditya spinners
 
 UI Library - MUI
-
-Test 2
